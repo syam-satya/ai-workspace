@@ -49,28 +49,6 @@ AI Workspace solves this by:
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add your screenshots here after building UI)*
-
-### 💬 Chat Interface
-
-![Chat UI](./screenshots/chat.png)
-
-### 📄 PDF Summarization
-
-![PDF Summary](./screenshots/pdf-summary.png)
-
-### 🧠 Flashcards
-
-![Flashcards](./screenshots/flashcards.png)
-
-### ❓ Quiz Generator
-
-![Quiz](./screenshots/quiz.png)
-
----
-
 ## ⚙️ Tech Stack
 
 ### 🔙 Backend
